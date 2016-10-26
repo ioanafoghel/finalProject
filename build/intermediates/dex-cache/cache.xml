@@ -6,133 +6,133 @@
         jumboMode="true"
         revision="24.0.1"
         sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
-        <dex dex="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/pre-dexed/debug/core-3.2.1_72a3380a124b3c4291e96110dcacc6ce3797a9a7.jar" />
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_72a3380a124b3c4291e96110dcacc6ce3797a9a7/classes.dex" />
     </item>
     <item
-        jar="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_ac36f908e7a6d85af3871ad95a8c3fa3569ab5fb.jar" />
-    </item>
-    <item
-        jar="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_4effce85de9f4f4c1739fae7eacd86923c394add.jar" />
-    </item>
-    <item
-        jar="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="6853305072f9e4813a3672c85e26b67719c41b80">
-        <dex dex="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_6918ac9671f4e46254db2c929de73f55bf6cd84e.jar" />
-    </item>
-    <item
-        jar="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_bb064f68b03cf873225ce3b85e7a98a6746fe546.jar" />
-    </item>
-    <item
-        jar="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_647d88cc6a50cf73f8008bfd4614af33731cdd74.jar" />
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_0b227e89c8e6d35ec16b92a549b9ed81660ef2c6/classes.dex" />
     </item>
     <item
-        jar="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_29e57af63948c13bc62748b3c0029ecb02cf44c0.jar" />
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_907f62af78418ff0fc1bb430db82e3d3dc64d94b/classes.dex" />
     </item>
     <item
-        jar="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_c780d7b02ec5022e310f21e1a3cbbdff85145181.jar" />
-    </item>
-    <item
-        jar="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_e640a278db9687906f69a61f9871754d084d8efb.jar" />
-    </item>
-    <item
-        jar="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_cf070473f78955dc140086856204ab6de76c42e4.jar" />
-    </item>
-    <item
-        jar="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_afde19ef603fdd425a0b6a0f9a4836fccdb9fbce.jar" />
-    </item>
-    <item
-        jar="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_3df5a8c30b5a6c911d7e4e2b8bb7f23ec7dee763.jar" />
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_33d11e3997ed81c1cfbc21c0731eead17db3b6d0/classes.dex" />
     </item>
     <item
         jar="/Users/alinbaltatescu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_fcef98179998c873f5dea068f881d46fb4453ec3.jar" />
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_fcef98179998c873f5dea068f881d46fb4453ec3/classes.dex" />
     </item>
     <item
-        jar="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_e0157600934dd39f8d1482b6ca3d65c373433213.jar" />
+        sha1="b87be90fdce9969b0e555c7101e54da3e028aca8">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a8f8a402974ec28c470612998e089eb3e6e87992/classes.dex" />
     </item>
     <item
-        jar="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_35730b440b96cec0a519a9cebe4a2a9e00a74efd.jar" />
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_3865dfac23d7cd07c6f04c74e877aae24f9a4aa9/classes.dex" />
     </item>
     <item
-        jar="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.2.0/jars/classes.jar"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_ec783760a0e2a2a5a3eba489714c42fe83dc4344/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.2.0/jars/classes.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="d4ce6303165f20650850673bd5891fbcca80caae">
-        <dex dex="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-3.2.0_94fac4648740b9b078ae1f08cb4d4f679ed9dfd2.jar" />
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.journeyapps-zxing-android-embedded-3.2.0_b73de80284cbd8ac3795e454a7d43724a7c9b8e5/classes.dex" />
     </item>
     <item
-        jar="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="b682c017024c9466a00b093d5a03a8e83926a9f0">
-        <dex dex="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/pre-dexed/debug/instant-run_785ed833e2f622bc92efa0e2dbff7b09d17fa869.jar" />
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_bb3db51f21896b0466003f34628353945314066b/classes.dex" />
     </item>
     <item
-        jar="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_b4a615768d0ede0590b1a601e1279264334e18b5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e831b3045317259393fc078923bbd356684d9861">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8d114d36950230cd3cf17bbfb35e9629693b89ac/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_c43d2c68c314f6f54193b449c1b6f80b7ffc74b3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_1d78aed3116f34ce9b463eba843cfdd8556b6504/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_874ffc81e373d475c05db1de0abd3ad48c74230e.jar" />
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_b2a465910938a5702d57a12f145e1043e6d1830a/classes.dex" />
     </item>
     <item
-        jar="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="/Users/alinbaltatescu/BarCodeScanner/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_46d32d4795c7bc1fdb9328b42a767246df73b445.jar" />
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_92229ec1eb81dc431f1195f946ad7ff20eb92722/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_d163bc95e200bc25be4a16c081796eed8319ca50/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_5df6b9cf3c12d60968569a76621ed0b40cf7b20c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ef2bdaba708de720da21e318e1ff4ebea2635266/classes.dex" />
     </item>
 
 </items>
