@@ -2,6 +2,8 @@ package com.example.alinbaltatescu.barcodescanner.activities;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.media.AudioManager;
+import android.media.MediaPlayer;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -12,7 +14,7 @@ import com.example.alinbaltatescu.barcodescanner.R;
 import com.google.zxing.integration.android.IntentIntegrator;
 import com.google.zxing.integration.android.IntentResult;
 
-public class ReaderActivity extends AppCompatActivity {
+public class ScanActivity extends AppCompatActivity {
     private Button scanBtn;
     private Button wishBtn;
     private Button shopBtn;
@@ -32,7 +34,7 @@ public class ReaderActivity extends AppCompatActivity {
                 integrator.setDesiredBarcodeFormats(IntentIntegrator.PRODUCT_CODE_TYPES);
                 integrator.setPrompt("Scan");
                 integrator.setCameraId(0);
-                integrator.setBeepEnabled(false);
+                integrator.setBeepEnabled(true);
                 integrator.setBarcodeImageEnabled(false);
                 integrator.initiateScan();
             }
@@ -41,7 +43,7 @@ public class ReaderActivity extends AppCompatActivity {
         wishBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-               Intent intent = new Intent(ReaderActivity.this,WishListActivity.class);
+               Intent intent = new Intent(ScanActivity.this,WishListActivity.class);
                 startActivity(intent);
                 finish();
             }
@@ -50,7 +52,7 @@ public class ReaderActivity extends AppCompatActivity {
         shopBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(ReaderActivity.this,ShopListActivity.class);
+                Intent intent = new Intent(ScanActivity.this,ShopListActivity.class);
                 startActivity(intent);
                 finish();
             }
@@ -65,6 +67,9 @@ public class ReaderActivity extends AppCompatActivity {
             if (result.getContents() == null) {
                 Toast.makeText(this, "You cancelled the scanning", Toast.LENGTH_LONG).show();
             } else {
+               /* Intent resultIntent = new Intent(getApplicationContext(), ProductActivity.class);
+                startActivity(resultIntent);*/
+
                 Toast.makeText(this, result.getContents(), Toast.LENGTH_LONG).show();
             }
         } else {
