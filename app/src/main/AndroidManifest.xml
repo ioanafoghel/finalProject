@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.alinbaltatescu.barcodescanner">
+    package="com.vuuh.ioanafoghel.barecodescanner">
 
     <application
         android:allowBackup="true"
@@ -8,20 +8,20 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".activities.ScanActivity">
+        <activity android:name="com.vuuh.ioanafoghel.barecodescanner.activities.ScanActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activities.WishListActivity">
+        <activity android:name="com.vuuh.ioanafoghel.barecodescanner.activities.WishListActivity">
         </activity>
-        <activity android:name=".activities.ShopListActivity">
+        <activity android:name="com.vuuh.ioanafoghel.barecodescanner.activities.ShopListActivity">
         </activity>
-        <activity android:name=".activities.ProductsActivity">
+        <activity android:name="com.vuuh.ioanafoghel.barecodescanner.activities.ProductsActivity">
         </activity>
-        <activity android:name=".activities.ProductActivity">
+        <activity android:name="com.vuuh.ioanafoghel.barecodescanner.activities.ProductActivity">
         </activity>
     </application>
 

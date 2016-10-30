@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "821867488471",
+    "firebase_url": "https://finalprojectioana.firebaseio.com",
+    "project_id": "finalprojectioana",
+    "storage_bucket": "finalprojectioana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821867488471:android:bd35e214b4b7ea10",
+        "android_client_info": {
+          "package_name": "com.vuuh.ioanafoghel.barecodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821867488471-6ajes0e96u9cpbfmldg0ni9nma2g5dc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHlwkbnolBLNP5s6qV6L98U7AzUYlErl4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

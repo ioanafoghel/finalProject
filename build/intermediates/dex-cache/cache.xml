@@ -2,137 +2,274 @@
 <items version="2" >
 
     <item
-        jar="/Users/alinbaltatescu/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
         jumboMode="true"
+        optimize="true"
         revision="24.0.1"
-        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
-        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_72a3380a124b3c4291e96110dcacc6ce3797a9a7/classes.dex" />
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_e69afc0764d67dc74adacd4d8236bf72e43800c6/classes.dex" />
     </item>
     <item
-        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_0b227e89c8e6d35ec16b92a549b9ed81660ef2c6/classes.dex" />
-    </item>
-    <item
-        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_907f62af78418ff0fc1bb430db82e3d3dc64d94b/classes.dex" />
-    </item>
-    <item
-        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_33d11e3997ed81c1cfbc21c0731eead17db3b6d0/classes.dex" />
-    </item>
-    <item
-        jar="/Users/alinbaltatescu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_fcef98179998c873f5dea068f881d46fb4453ec3/classes.dex" />
-    </item>
-    <item
+        is-multidex="true"
         jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
+        optimize="true"
         revision="24.0.1"
-        sha1="b87be90fdce9969b0e555c7101e54da3e028aca8">
+        sha1="0b64bd937d71f2382499626038c9045410c433f6">
         <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a8f8a402974ec28c470612998e089eb3e6e87992/classes.dex" />
     </item>
     <item
-        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="true"
+        optimize="true"
         revision="24.0.1"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_3865dfac23d7cd07c6f04c74e877aae24f9a4aa9/classes.dex" />
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_d01912fb0a63bd6d7bdc04c537f8f339fd86cee6/classes.dex" />
     </item>
     <item
-        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
         jumboMode="true"
+        optimize="true"
         revision="24.0.1"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_ec783760a0e2a2a5a3eba489714c42fe83dc4344/classes.dex" />
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_c1765383e8d5a866ee7a3ca1bee4369ac37bf68e/classes.dex" />
     </item>
     <item
-        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.2.0/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
         jumboMode="true"
+        optimize="true"
         revision="24.0.1"
-        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
-        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.journeyapps-zxing-android-embedded-3.2.0_b73de80284cbd8ac3795e454a7d43724a7c9b8e5/classes.dex" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_7fb4c350add1e5afc7717e3fa36a4d1e96dffea2/classes.dex" />
     </item>
     <item
-        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
         jumboMode="true"
+        optimize="true"
         revision="24.0.1"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_bb3db51f21896b0466003f34628353945314066b/classes.dex" />
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_a87b7966382aaa446d7761e0606ee5cfcdccb66b/classes.dex" />
     </item>
     <item
-        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
         jumboMode="true"
+        optimize="true"
         revision="24.0.1"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_b4a615768d0ede0590b1a601e1279264334e18b5/classes.dex" />
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_4e974d3ef8b4975e2022147ccbcf0dddef4a418a/classes.dex" />
     </item>
     <item
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_29e75108e4aec6087a1589b835b740f90710121b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_74540f285f342e2ed90786fd9c90f8811ebaffdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_8b85c4a17947547de83354c1cd0c0d83ba062673/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ab23576d356e633373c1fbc4823cb83e9a99e815/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_f7c796b1454a36a37b19a1f807c0f0e10fcf8720/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2077d7df72a3bd79570646c4524cee598d1344a2">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-beta2_b7219c2a00aeb11bdc04703fb37d1f3b1d4e3832/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_8336c20ece6ca76c3132b2033082f0ea8505bdaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_17cec575ddafdbe9a732b37c539d7105085b7d3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_ad7cf50e0c50056a04de91ae8c7bd4aaa09b1b6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_4d364b6878c5387ceaabc9325ca6bfdbb3375e5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_4a7b334102699f5d53edfc84c411f9029ff05bc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="29c426f3ff52238291c86e939dff6bd8a877b86c">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.journeyapps-zxing-android-embedded-3.3.0_14434b6b77549699c42db93312918979ca2b249a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_fd4661462870728c740bc17f81f7fbfe0327caac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_a3801b13f4e3ad151563fb2bbb8d405bff16eb9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_2f7c44c9908f14f49545bea4b2ca9aefb444ad8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_0dbf10770f0c706322a2f1667d3f37e73b482c8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_d634683a094dbdfa174199c902c8268f27cdc213/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_7b9382194a539f275289e36e044cc9fe5fcdc0e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_4ec656f8f0e6ef8fba2955b156b0f079688cb210/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_d5cae67ab48a720a75c8bc06e6d92dae10686c04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
+        optimize="true"
         revision="24.0.1"
-        sha1="e831b3045317259393fc078923bbd356684d9861">
+        sha1="96adbd1dd2602cc6c7215285f7d3cdbcd1712012">
         <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8d114d36950230cd3cf17bbfb35e9629693b89ac/classes.dex" />
     </item>
     <item
-        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
         jumboMode="true"
+        optimize="true"
         revision="24.0.1"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_c43d2c68c314f6f54193b449c1b6f80b7ffc74b3/classes.dex" />
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.3.0_112fdd3351066fc45fdf28a9218d88dcf4d78828/classes.dex" />
     </item>
     <item
-        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        is-multidex="true"
+        jar="/Users/alinbaltatescu/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta2/constraint-layout-solver-1.0.0-beta2.jar"
         jumboMode="true"
+        optimize="true"
         revision="24.0.1"
-        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_1d78aed3116f34ce9b463eba843cfdd8556b6504/classes.dex" />
-    </item>
-    <item
-        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_b2a465910938a5702d57a12f145e1043e6d1830a/classes.dex" />
-    </item>
-    <item
-        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_92229ec1eb81dc431f1195f946ad7ff20eb92722/classes.dex" />
-    </item>
-    <item
-        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_d163bc95e200bc25be4a16c081796eed8319ca50/classes.dex" />
-    </item>
-    <item
-        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_5df6b9cf3c12d60968569a76621ed0b40cf7b20c/classes.dex" />
-    </item>
-    <item
-        jar="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ef2bdaba708de720da21e318e1ff4ebea2635266/classes.dex" />
+        sha1="e5436cefb7e5c057655ed13ad54b56e1931f47fe">
+        <dex dex="/Users/alinbaltatescu/Documents/finalProjectAPDegree/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta2_c2c8a32a061472570262ca97e3eec6c6094a04c8/classes.dex" />
     </item>
 
 </items>
